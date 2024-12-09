@@ -445,8 +445,8 @@ importers:
         specifier: ^1.4.1
         version: 1.4.1(next@15.0.4(@opentelemetry/api@1.9.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react@19.0.0)(svelte@5.2.7)(vue@3.5.13(typescript@5.7.2))
       posthog-js:
-        specifier: ^1.194.5
-        version: 1.194.5
+        specifier: ^1.194.6
+        version: 1.194.6
       posthog-node:
         specifier: ^4.3.1
         version: 4.3.1
@@ -8208,8 +8208,8 @@ packages:
   postgres-range@1.1.4:
     resolution: {integrity: sha512-i/hbxIE9803Alj/6ytL7UHQxRvZkI9O4Sy+J3HGc4F4oo/2eQAjTSNJ0bfxyse3bH0nuVesCk+3IRLaMtG3H6w==}
 
-  posthog-js@1.194.5:
-    resolution: {integrity: sha512-bYa20TkwzkDsr2y3iCiJNto/bthkYkmHZopIOXzFEw7KeB581Y1WueaOry5MFHEwnpZuomqEmcMQGBAoWvv8VA==}
+  posthog-js@1.194.6:
+    resolution: {integrity: sha512-5g5n7FjWLha/QWVTeWeMErGff21v4/V3wYCZ2z8vAbHaCyHkaDBEbuM756jMFBQMsq3HJcDX9mlxi2HhAHxq2A==}
 
   posthog-node@4.3.1:
     resolution: {integrity: sha512-By9SEGZxBLC7GVyVb+HlJlpxM/xI4iLUgwtsBS8f4bZ0wqYKiNHoYcFEwMJnTM9xQcQZztr6dqLmsJ7jCv0vxA==}
@@ -18209,7 +18209,7 @@ snapshots:
 
   postgres-range@1.1.4: {}
 
-  posthog-js@1.194.5:
+  posthog-js@1.194.6:
     dependencies:
       core-js: 3.38.1
       fflate: 0.4.8
